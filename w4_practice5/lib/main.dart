@@ -48,7 +48,7 @@ Expanded(
           ),
       ),
         ),
-
+        
         const SizedBox(height: 12),
 
         // Soccer and Flutter
@@ -96,10 +96,6 @@ Expanded(
             Container(
               height: 60,
               color: Colors.deepOrange,
-              child: const Center(
-               child: Text('Botton Navigation ' ,style: TextStyle(color:             Colors.white),
-               )
-              )
             ),
           ],
         ),
